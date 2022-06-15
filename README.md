@@ -3,7 +3,7 @@
 
 ## Dataset Information
 The dataset of red "Vinho Verde" wine is used for EDA task. For further information,
-refer to [Cortez et al., 2009]. The data containes physicochemical variables and quality as a target variable.
+refer to [Cortez et al., 2009]. The data contains physicochemical variables and quality as a target variable.
 The [data link](https://archive.ics.uci.edu/ml/datasets/wine+quality) .
 
 Variables:
@@ -21,7 +21,7 @@ Variables:
 
 ## Description
 
-Using a simple R script, the dataset is explored to present the most interesting and useful insights along with the questions they answers.
+Using a simple R script, the dataset is explored to present the most interesting and useful insights along with the questions they answer.
 ### Goals
 - Presenting findings gathered from analysis in a report format.
 - Discovering packages and functions in R for data manipulation and EDA.
