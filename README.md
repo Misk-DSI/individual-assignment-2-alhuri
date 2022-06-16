@@ -4,9 +4,10 @@
 ## Dataset Information
 The dataset of red "Vinho Verde" wine is used for EDA task. For further information,
 refer to [Cortez et al., 2009]. The data contains physicochemical variables and quality as a target variable.
-The [data link](https://archive.ics.uci.edu/ml/datasets/wine+quality) .
+The data [link](https://archive.ics.uci.edu/ml/datasets/wine+quality) .
 
-[Wine Repot Markdown](./wine_report.html)
+- [Github Repo](https://github.com/Misk-DSI/individual-assignment-2-alhuri)
+- [Wine Repot Markdown](./wine_report.html)
 
 Variables:
 - fixed acidity - most acids involved with wine or fixed or nonvolatile.
