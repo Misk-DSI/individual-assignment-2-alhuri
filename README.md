@@ -4,7 +4,7 @@
 ## Dataset Information
 The dataset of red "Vinho Verde" wine is used for EDA task. For further information,
 refer to [Cortez et al., 2009]. The data contains physicochemical variables and quality as a target variable.
-The [data link](https://archive.ics.uci.edu/ml/datasets/wine+quality) .
+The data [link](https://archive.ics.uci.edu/ml/datasets/wine+quality) .
 
 - [Wine Report Page](https://Misk-DSI.github.io/individual-assignment-2-alhuri/)
 
